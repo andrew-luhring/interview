@@ -50,8 +50,8 @@ Example:
 Constraints:
 ===========
 
- The length of the tape can be between 2 and 100,000 in length.
- Each number on the tape can be between -1000 and 1000.
- Worst-case time complexity is Θ(n)
- Worst-case space complexity is Θ(n)
- The order of the arrays will not be modified once they are inserted into the function.
+- The length of the tape can be between 2 and 100,000 in length.  
+- Each number on the tape can be between -1000 and 1000.  
+- Worst-case time complexity is Θ(n)  
+- Worst-case space complexity is Θ(n)  
+- The order of the arrays will not be modified once they are inserted into the function.  
