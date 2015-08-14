@@ -1,5 +1,6 @@
 The problem.
- ===========
+===========
+
  Take a piece of tape with a list of numbers on it,
  
 - split the piece of tape one time at each place where it's possible to split the tape such that both pieces of the tape would contain at least 1 number.
@@ -9,8 +10,8 @@ The problem.
 
 ***
 
- Example:
- ========
+Example:
+========
 
  You have a piece of tape that contains the numbers:
  ```3, 1, 2, 4, 3```
@@ -46,8 +47,9 @@ The problem.
  |10 − 3| = 7
  ```
 
- Constraints:
- ===========
+Constraints:
+===========
+
  The length of the tape can be between 2 and 100,000 in length.
  Each number on the tape can be between -1000 and 1000.
  Worst-case time complexity is Θ(n)
